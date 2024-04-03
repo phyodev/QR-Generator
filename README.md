@@ -2,7 +2,6 @@
 this project is a simple QR Generator developed with Flask, Python for backend and frontend generated with ChatGPT3
 
 # How to run?
-___
 ## Step1
 ```console
 cd QR-Generator
