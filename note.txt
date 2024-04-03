@@ -1,0 +1,7 @@
+Step - 1 > python main.py 
+
+Step - 2 > https://localhost:5000/generate-qr/[your desire text]
+
+Note - 
+
+replace [] with your desire text
