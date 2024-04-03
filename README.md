@@ -10,4 +10,4 @@ cd QR-Generator
 ``python main.py``
 
 ### Step3
-copy the address (eg. 127.0.0.1:5000) from terminal to any browswer to see the result.
+copy the address (eg. 127.0.0.1:5000) from terminal and paste to any browswer to see the result.
